@@ -3,12 +3,12 @@
 
 This section should contain a brief description of the project. 
 
-The following questions should be answered
+The following questions should be answered:
 
-    - An overview What does this project does
+   - An overview of what does the project do?
  
-    - How is it useful for a developer
-        Feel free to include diagrams or link to external resources to provide context
+   - How is this project useful for a developer? 
+        Feel free to include diagrams or link to external resources to provide context.
 
 
 
@@ -22,9 +22,10 @@ Any env variables that need to be configured should be place here
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
+This section should include instruction on how a developer can setup the project and run it locally. 
 
-To get a local copy up and running follow these simple example steps.
+Below is an example of what this should look like. 
+
 
 ### Prerequisites
 
@@ -36,9 +37,10 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+_Below is an example of how you can instruct developers on installing and setting up your component._
 
 1. Get a free API Key at [https://example.com](https://example.com)
+
 2. Clone the repo
    ```sh
    git clone https://github.com/github_username/repo_name.git
@@ -47,9 +49,9 @@ _Below is an example of how you can instruct your audience on installing and set
    ```sh
    npm install
    ```
-4. Enter your API in `config.js`
+4. Enter your API key in `.env file`
    ```js
-   const API_KEY = 'ENTER YOUR API';
+   API_KEY = 'ENTER YOUR API';
    ```
 5. Change git remote url to avoid accidental pushes to base project
    ```sh
@@ -62,11 +64,10 @@ _Below is an example of how you can instruct your audience on installing and set
 
 
 <!-- USAGE EXAMPLES -->
-## Usage/Examples
+## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space.
+Use this space to show useful examples of how a component can be used. Additional screenshots, code examples, and diagrams work well in this section.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
